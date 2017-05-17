@@ -1,6 +1,6 @@
 {
   "name": "ngrok-serve-dir",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Easily serve a directory's contents over the internet using ngrok",
   "main": "index.js",
   "preferGlobal": true,
