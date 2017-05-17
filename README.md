@@ -6,7 +6,7 @@ It's as easy as
 $ ngrok-serve
 ```
 
-![demo](https://cl.ly/3W1E3H183517/Screen%20Recording%202017-05-17%20at%2008.47%20AM.gif)
+<img src="https://cl.ly/3W1E3H183517/Screen%20Recording%202017-05-17%20at%2008.47%20AM.gif" width="500"/> <img src="https://cl.ly/0S111S1k0U2y/Screen%20Shot%202017-05-17%20at%208.57.59%20AM.png" width="350"/> 
 
 ## Setup
 
