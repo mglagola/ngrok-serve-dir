@@ -1,5 +1,5 @@
 {
-  "name": "ngrok-serve",
+  "name": "ngrok-serve-dir",
   "version": "0.0.1",
   "description": "Easily serve a directory's contents over the internet using ngrok",
   "main": "index.js",
