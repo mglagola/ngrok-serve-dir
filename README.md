@@ -1,4 +1,4 @@
-# Easily serve a directory's contents over the internet using ngrok and node`
+# Easily serve a directory's contents over the internet using ngrok and nodejs
 
 It's as easy as
 
